@@ -1,5 +1,5 @@
-sunny,no,mild,no
-rainy,yes,normal,yes
-cloudy,no,normal,yes
-sunny,yes,normal,yes
-rainy,no,mild,no.
+Weather	Temperature	Humidity	Wind	Goes
+Sunny	Warm	Mild	Strong	Yes
+Rainy	Cold	Mild	Normal	No
+Sunny	Moderate	Nomal	Normal	Yes
+Sunny	Cold	High	Strong	Yes
