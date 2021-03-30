@@ -5,7 +5,7 @@ import pandas as pd
 import numpy as np
  
 
-data = pd.read_csv("./findsdata.csv")
+data = pd.read_csv("./data.csv")
 print(data,"\n")
  
 #array of all the attributes
