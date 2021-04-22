@@ -29,7 +29,19 @@
 
     Concept learning: Concept learning is basically learning task of the machine (Learn by Train data)
     General Hypothesis: Not Specifying features to learn the machine.
-## Program 3: Candidate Elimination Algorithm
+## Program 3: ID3 Algorithm
+    ID3 stands for Iterative Dichotomiser 3 and is named such because the algorithm iteratively (repeatedly) dichotomizes(divides) features into two or more groups at each step.
+    It, uses a top-down greedy approach to build a decision tree.
+    In simple words, the top-down approach means that we start building the tree from the top and the greedy approach means that at each iteration we select the              best feature at the present moment to create a node.
+    Most generally ID3 is only used for classification problems with nominal features only.
+
+### ID3 Steps
+    Calculate the Information Gain of each feature.
+    Considering that all rows don’t belong to the same class, split the dataset S into subsets using the feature for which the Information Gain is maximum.
+    Make a decision tree node using the feature with the maximum Information gain.
+    If all rows belong to the same class, make the current node as a leaf node with the class as its label.
+    Repeat for the remaining features until we run out of all features, or the decision tree has all leaf nodes.
+
 ## Program 4: Naive Bayes Classifier 
    ### What is a classifier?
         A classifier is a machine learning model that is used to discriminate different objects based on certain features.
