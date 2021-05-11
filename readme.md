@@ -58,3 +58,6 @@
         S= {‘pi’,’pi’,’pi’…}: Number of pi depends on number of attributes.
         Version Space: It is intermediate of general hypothesis and Specific hypothesis.
         It not only just written one hypothesis but a set of all possible hypothesis based on training data-set.
+## Program 5: Bayesian Network
+   ### What Is A Bayesian Network?
+        A Bayesian Network falls under the category of Probabilistic Graphical Modelling (PGM) technique that is used to compute uncertainties by using the concept               of probability. Popularly known as Belief Networks, Bayesian Networks are used to model uncertainties by using Directed Acyclic Graphs (DAG).
