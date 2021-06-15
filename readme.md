@@ -61,3 +61,14 @@
 ## Program 5: Bayesian Network
    ### What Is A Bayesian Network?
         A Bayesian Network falls under the category of Probabilistic Graphical Modelling (PGM) technique that is used to compute uncertainties by using the concept               of probability. Popularly known as Belief Networks, Bayesian Networks are used to model uncertainties by using Directed Acyclic Graphs (DAG).
+
+## Program 6: k-Means algorithm
+   ### Apply k-Means algorithm to cluster a set of data stored in a .CSV file.
+## Program 7: EM algorithm
+   ### Apply EM algorithm to cluster a set of data stored in a .CSV file. Compare the results of k-Means algorithm and EM algorithm
+## Program 8: k-Nearest Neighbour algorithm 
+   ### Write a program to implement k-Nearest Neighbour algorithm to classify the iris data set. Print both correct and wrong predictions.
+## Program 9: Linear Regression
+   ### Implement the Linear Regression algorithm in order to fit data points. Select the appropriate data set for your experiment and draw graphs.
+## Program 10: Locally Weighted Regression algorithm
+   ### Implement the non-parametric Locally Weighted Regression algorithm in order to fit data points. Select the appropriate data set for your experiment and draw graphs.
